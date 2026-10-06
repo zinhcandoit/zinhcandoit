@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<img src="awaken/rune-luk-dark.svg" width="24%" alt="LUK: rank B">
+<img src="awaken/rune-luk-dark.svg" width="24%" alt="LUK: rank E">
 <img src="awaken/rune-cha-dark.svg" width="24%" alt="CHA: rank E">
 </p>
 <!-- AWAKEN:END -->
