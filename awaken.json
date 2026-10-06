@@ -1,0 +1,17 @@
+{
+  "username": "zinhcandoit",
+  "layout": "classic",
+  "theme": "cyberpunk",
+  "title": "early-bird",
+  "activity": "arise",
+  "icons": "brand",
+  "motion": "full",
+  "timezone": "Asia/Saigon",
+  "arsenal": [
+    "pytorch",
+    "huggingface",
+    "langchain",
+    "googlegemini",
+    "kaggle"
+  ]
+}
