@@ -2,7 +2,7 @@
   "login": "zinhcandoit",
   "level": 7,
   "overall": "C",
-  "overallPercentile": 0.6902986261061878,
+  "overallPercentile": 0.6875176575594942,
   "layout": "classic",
   "class": {
     "name": "Grand Magus",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 18,
+      "value": 17,
       "rank": "SS",
-      "percentile": 0.9903581751585077
+      "percentile": 0.9880247354279832
     },
     {
       "code": "LUK",
@@ -122,7 +122,7 @@
     {
       "id": "gate-opener",
       "tier": 2,
-      "value": 35
+      "value": 36
     },
     {
       "id": "raider",
@@ -172,7 +172,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 71
+      "value": 72
     },
     {
       "id": "daily-grinder",
@@ -187,7 +187,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 13
+      "value": 14
     },
     {
       "id": "boss-slayer",
@@ -197,7 +197,7 @@
     {
       "id": "escape-artist",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "collector",
@@ -207,6 +207,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-12",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-11",
         "cleared": 0,
@@ -246,11 +251,11 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 13,
+    "questsDone": 14,
     "bosses": [
       "2026-10-05"
     ],
-    "escapes": 0,
+    "escapes": 1,
     "kinds": [
       "contribute",
       "mp",
@@ -258,5 +263,5 @@
       "average"
     ]
   },
-  "syncedAt": "2026-10-11T20:57:10.851Z"
+  "syncedAt": "2026-10-12T23:36:37.243Z"
 }
