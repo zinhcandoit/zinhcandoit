@@ -48,22 +48,7 @@
       "percentile": 0
     }
   ],
-  "events": [
-    {
-      "kind": "achievement",
-      "subject": "night-owl",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-14T20:42:14.119Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "polyglot",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-14T20:42:14.119Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -194,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-22",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-21",
         "cleared": 0,
         "total": 3
@@ -296,5 +286,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-10-21T20:35:53.080Z"
+  "syncedAt": "2026-10-22T20:32:45.500Z"
 }
