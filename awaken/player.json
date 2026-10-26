@@ -2,7 +2,7 @@
   "login": "zinhcandoit",
   "level": 7,
   "overall": "C",
-  "overallPercentile": 0.6929752999288483,
+  "overallPercentile": 0.6906654730849362,
   "layout": "classic",
   "class": {
     "name": "Grand Magus",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 19,
+      "value": 18,
       "rank": "SS",
-      "percentile": 0.9921949796194564
+      "percentile": 0.9903581751585077
     },
     {
       "code": "LUK",
@@ -93,7 +93,7 @@
     {
       "id": "gate-opener",
       "tier": 2,
-      "value": 39
+      "value": 38
     },
     {
       "id": "raider",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-26",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-10-25",
         "cleared": 0,
@@ -301,5 +306,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-10-25T19:34:47.715Z"
+  "syncedAt": "2026-10-26T21:37:40.973Z"
 }
