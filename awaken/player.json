@@ -2,7 +2,7 @@
   "login": "zinhcandoit",
   "level": 7,
   "overall": "C",
-  "overallPercentile": 0.6906654730849362,
+  "overallPercentile": 0.6945259954475043,
   "layout": "classic",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 315,
+      "value": 328,
       "rank": "A",
-      "percentile": 0.8841645487008819
+      "percentile": 0.8891871507406556
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 18,
+      "value": 19,
       "rank": "SS",
-      "percentile": 0.9903581751585077
+      "percentile": 0.9921949796194564
     },
     {
       "code": "LUK",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 315
+      "value": 328
     },
     {
       "id": "unbroken",
@@ -78,7 +78,7 @@
     {
       "id": "night-owl",
       "tier": 1,
-      "value": 29
+      "value": 27
     },
     {
       "id": "early-bird",
@@ -88,12 +88,12 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 23
+      "value": 28
     },
     {
       "id": "gate-opener",
       "tier": 2,
-      "value": 38
+      "value": 39
     },
     {
       "id": "raider",
@@ -138,12 +138,12 @@
     {
       "id": "berserker",
       "tier": 1,
-      "value": 12
+      "value": 14
     },
     {
       "id": "diligent",
       "tier": 1,
-      "value": 73
+      "value": 74
     },
     {
       "id": "daily-grinder",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-20",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-05",
         "cleared": 0,
@@ -356,5 +361,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-11-05T22:39:42.567Z"
+  "syncedAt": "2026-11-20T23:03:19.922Z"
 }
